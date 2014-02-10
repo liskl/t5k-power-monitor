@@ -3,6 +3,8 @@ t5k-power-monitor
 
 using rrdtool to graph the data from the TED 5000 Power Monitoring Tool
 
+see example at: http://liskl.com/power/
+
 Add to crontab
 	* * * * * /home/liskl/TED5000.sh $IP_OF_TED_GATEWAY 0
 
